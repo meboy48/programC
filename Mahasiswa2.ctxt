@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getNrp()
+comment1.params=
+comment1.target=java.lang.String\ getNama()
+comment2.params=
+comment2.target=void\ Mahasiswa2()
+comment3.params=nama
+comment3.target=void\ Mahasiswa2(java.lang.String)
+comment4.params=nrp\ nama
+comment4.target=void\ Mahasiswa2(int,\ java.lang.String)
+numComments=5
